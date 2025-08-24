@@ -173,7 +173,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Enemies_0
+      name: Ghost 1
       rect:
         serializedVersion: 2
         x: 22
@@ -181,7 +181,7 @@ TextureImporter:
         width: 95
         height: 222
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -195,7 +195,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Enemies_1
+      name: Ghost 2
       rect:
         serializedVersion: 2
         x: 135
@@ -203,7 +203,7 @@ TextureImporter:
         width: 98
         height: 222
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -217,7 +217,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Enemies_2
+      name: Ghost 3
       rect:
         serializedVersion: 2
         x: 258
@@ -225,7 +225,7 @@ TextureImporter:
         width: 100
         height: 222
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -239,7 +239,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Enemies_3
+      name: Ghost 4
       rect:
         serializedVersion: 2
         x: 384
@@ -247,7 +247,7 @@ TextureImporter:
         width: 98
         height: 222
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -261,7 +261,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Enemies_4
+      name: Ghost 5
       rect:
         serializedVersion: 2
         x: 507
@@ -269,7 +269,7 @@ TextureImporter:
         width: 96
         height: 222
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -283,7 +283,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Enemies_5
+      name: Ghost 6
       rect:
         serializedVersion: 2
         x: 622
@@ -291,7 +291,7 @@ TextureImporter:
         width: 99
         height: 222
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -305,7 +305,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Enemies_6
+      name: Ghost 7
       rect:
         serializedVersion: 2
         x: 737
@@ -313,7 +313,7 @@ TextureImporter:
         width: 99
         height: 222
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -327,7 +327,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Enemies_7
+      name: G1
       rect:
         serializedVersion: 2
         x: 19
@@ -335,7 +335,7 @@ TextureImporter:
         width: 131
         height: 213
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -349,7 +349,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Enemies_8
+      name: G2
       rect:
         serializedVersion: 2
         x: 176
@@ -357,7 +357,7 @@ TextureImporter:
         width: 131
         height: 213
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -371,7 +371,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Enemies_9
+      name: G3
       rect:
         serializedVersion: 2
         x: 352
@@ -379,7 +379,7 @@ TextureImporter:
         width: 132
         height: 211
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -393,7 +393,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Enemies_10
+      name: G4
       rect:
         serializedVersion: 2
         x: 517
@@ -401,7 +401,7 @@ TextureImporter:
         width: 132
         height: 214
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -415,7 +415,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Enemies_11
+      name: G5
       rect:
         serializedVersion: 2
         x: 679
@@ -423,7 +423,7 @@ TextureImporter:
         width: 131
         height: 214
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -437,7 +437,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Enemies_12
+      name: G6
       rect:
         serializedVersion: 2
         x: 833
@@ -445,7 +445,7 @@ TextureImporter:
         width: 137
         height: 212
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -459,15 +459,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Enemies_13
+      name: G7
       rect:
         serializedVersion: 2
-        x: 1014
+        x: 1018
         y: 253
         width: 138
         height: 212
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -481,7 +481,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Enemies_14
+      name: R1
       rect:
         serializedVersion: 2
         x: 22
@@ -489,7 +489,7 @@ TextureImporter:
         width: 131
         height: 213
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -503,7 +503,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Enemies_15
+      name: R2
       rect:
         serializedVersion: 2
         x: 179
@@ -511,7 +511,7 @@ TextureImporter:
         width: 131
         height: 213
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -525,7 +525,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Enemies_16
+      name: R3
       rect:
         serializedVersion: 2
         x: 356
@@ -533,7 +533,7 @@ TextureImporter:
         width: 131
         height: 211
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -547,7 +547,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Enemies_17
+      name: R4
       rect:
         serializedVersion: 2
         x: 521
@@ -555,7 +555,7 @@ TextureImporter:
         width: 131
         height: 214
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -569,7 +569,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Enemies_18
+      name: R5
       rect:
         serializedVersion: 2
         x: 682
@@ -577,7 +577,7 @@ TextureImporter:
         width: 131
         height: 214
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -591,7 +591,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Enemies_19
+      name: R6
       rect:
         serializedVersion: 2
         x: 836
@@ -599,7 +599,7 @@ TextureImporter:
         width: 138
         height: 212
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -613,7 +613,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Enemies_20
+      name: R7
       rect:
         serializedVersion: 2
         x: 1018
@@ -621,7 +621,7 @@ TextureImporter:
         width: 137
         height: 212
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -638,7 +638,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: f3b8da69dcc4d844d84ada5220395587
     internalID: 0
     vertices: []
     indices: 
@@ -648,27 +648,27 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Enemies_0: 2192450021786810173
-      Enemies_1: -7537196482120660328
-      Enemies_10: 7877921557971618100
-      Enemies_11: 5366457973745487733
-      Enemies_12: 572134458542851419
-      Enemies_13: 5875395181630150645
-      Enemies_14: 5023289697677887148
-      Enemies_15: 1511843784806208459
-      Enemies_16: 9008768272413781845
-      Enemies_17: 615673380907259118
-      Enemies_18: -1010674888820381983
-      Enemies_19: -4181999719777712613
-      Enemies_2: -860468679390908754
-      Enemies_20: -3375038303658136201
-      Enemies_3: -7945901444079236628
-      Enemies_4: -8421458170528590454
-      Enemies_5: -1147401495359466748
-      Enemies_6: 8414478535512612329
-      Enemies_7: 3714015224569861163
-      Enemies_8: -7844560889915226194
-      Enemies_9: 4326287474489854147
+      G1: 3714015224569861163
+      G2: -7844560889915226194
+      G3: 4326287474489854147
+      G4: 7877921557971618100
+      G5: 5366457973745487733
+      G6: 572134458542851419
+      G7: 5875395181630150645
+      Ghost 1: 2192450021786810173
+      Ghost 2: -7537196482120660328
+      Ghost 3: -860468679390908754
+      Ghost 4: -7945901444079236628
+      Ghost 5: -8421458170528590454
+      Ghost 6: -1147401495359466748
+      Ghost 7: 8414478535512612329
+      R1: 5023289697677887148
+      R2: 1511843784806208459
+      R3: 9008768272413781845
+      R4: 615673380907259118
+      R5: -1010674888820381983
+      R6: -4181999719777712613
+      R7: -3375038303658136201
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

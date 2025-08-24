@@ -1,0 +1,27 @@
+using UnityEngine;
+
+public class Monster : MonoBehaviour
+{
+
+    public float speed;
+
+    private Rigidbody2D myBody;
+
+    void Awake()
+    {
+        myBody = GetComponent<Rigidbody2D>();
+
+        speed = 7f;
+    }
+
+    void FixedUpdate()
+    {
+        myBody.velocity = new Vector2(speed, myBody.velocity.y);
+    }
+
+
+
+
+
+
+}
